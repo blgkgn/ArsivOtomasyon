@@ -1,0 +1,194 @@
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ArsivOtomasyonu.exe
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ArsivOtomasyonu.pdb
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\obj\Debug\ArsivOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\obj\Debug\ArsivOtomasyonu.Form1.resources
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\obj\Debug\ArsivOtomasyonu.Properties.Resources.resources
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\obj\Debug\ArsivOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\obj\Debug\ArsivOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\obj\Debug\ArsivOtomasyonu.csproj.CopyComplete
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\obj\Debug\ArsivOtomasyonu.exe
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\obj\Debug\ArsivOtomasyonu.pdb
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\obj\Debug\ArsivOtomasyonu.Arsiv.resources
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\obj\Debug\ArsivOtomasyonu.Ayarlar.resources
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\obj\Debug\ArsivOtomasyonu.YeniEvrak.resources
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.Pdf.v17.2.Drawing.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.XtraPdfViewer.v17.2.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.Pdf.v17.2.Drawing.xml
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.XtraPdfViewer.v17.2.xml
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\de\DevExpress.XtraPdfViewer.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\es\DevExpress.XtraPdfViewer.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ja\DevExpress.XtraPdfViewer.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ru\DevExpress.XtraPdfViewer.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\obj\Debug\ArsivOtomasyonu.exe.licenses
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Mensi\source\repos\ArsivOtomasyonu\ArsivOtomasyonu\obj\Debug\ArsivOtomasyonu.Onizleme.resources
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ArsivOtomasyonu.exe.config
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ArsivOtomasyonu.exe
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ArsivOtomasyonu.pdb
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.Pdf.v17.2.Drawing.xml
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.XtraPdfViewer.v17.2.xml
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\de\DevExpress.XtraPdfViewer.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\es\DevExpress.XtraPdfViewer.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ja\DevExpress.XtraPdfViewer.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ru\DevExpress.XtraPdfViewer.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\obj\Debug\ArsivOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\obj\Debug\ArsivOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\obj\Debug\ArsivOtomasyonu.Arsiv.resources
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\obj\Debug\ArsivOtomasyonu.Ayarlar.resources
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\obj\Debug\ArsivOtomasyonu.Form1.resources
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\obj\Debug\ArsivOtomasyonu.Onizleme.resources
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\obj\Debug\ArsivOtomasyonu.Properties.Resources.resources
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\obj\Debug\ArsivOtomasyonu.YeniEvrak.resources
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\obj\Debug\ArsivOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\obj\Debug\ArsivOtomasyonu.exe.licenses
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\obj\Debug\ArsivOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\obj\Debug\ArsivOtomasyonu.csproj.CopyComplete
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\obj\Debug\ArsivOtomasyonu.exe
+C:\Users\Bilge Kağan Beyoğlu\Desktop\ArsivOtomasyonu\ArsivOtomasyonu\obj\Debug\ArsivOtomasyonu.pdb
